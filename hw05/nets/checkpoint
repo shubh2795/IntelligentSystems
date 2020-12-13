@@ -1,0 +1,2 @@
+model_checkpoint_path: "A:/USU/Assignments/IntelligentSystems/hw05/nets/Shallow_ANN.tfl"
+all_model_checkpoint_paths: "A:/USU/Assignments/IntelligentSystems/hw05/nets/Shallow_ANN.tfl"

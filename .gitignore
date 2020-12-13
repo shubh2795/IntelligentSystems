@@ -1,0 +1,4 @@
+*.pck
+.env
+*.idea
+*.tfl
